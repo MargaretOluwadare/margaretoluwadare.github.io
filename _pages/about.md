@@ -8,15 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor with tenure since July 1, 2022 in the [Department of Statistics and Actuarial Science](https://stat.uiowa.edu/) at the [University of Iowa](https://uiowa.edu/) ([*Go Hawkeyes!*](https://hawkeyesports.com/)). I arrived at Iowa in Fall 2015 as an Assistant Professor after pursuing my post-doctoral research at [SAMSI](www.samsi.info) and [Duke University](https://stat.duke.edu), where [David Dunson](https://en.wikipedia.org/wiki/David_Dunson) and [Barbara Engelhardt](https://www.cs.princeton.edu/people/profile/bee) were my mentors. I received my Ph.D. in Statistics in 2013 from [Purdue University](https://www.stat.purdue.edu/) under the guidance of [Rebecca Doerge](https://www.cmu.edu/mcs/people/dean-bio.html). My academic journey in Statistics started at [IIT Kanpur](https://www.iitk.ac.in/math/), where I received a five year integrated M.Sc. in Mathematics and Scientific Computing in 2007.
 
-My current research interests are focused on scalable Bayesian computations and dimension reduction. I have focused on scaling posterior computations using the divide-and-conquer technique. Recently, I have been interested in the applications of array variate models and Gaussian processes for biomedical data analysis, including data from multiple technologies and sources. 
+I am is an accomplished professional with extensive experience in the field of Statistics, Data science and human resources. I currently serves as the Program Manager at a leading multinational company, where she is responsible for all aspects of Technical training, including Talent acquisition, employee engagement, talent management, and compensation and benefits.
 
-I have extensive experience in collaborating with scientists and teaching statistics to students from diverse areas and varied expertise. I am working closely with many colleagues at Iowa. I have developed and taught a class on statistical learning at at the University of Iowa since Fall 2016. 
+Margaret's career in Data Science began over a decade ago, and since then she has held several key positions in various organizations. My expertise in Data intensive product design and building, policy and technical program development, and performance management has helped me to build highly effective teams and drive organizational growth. I have a proven track record of implementing successful Data Science courses, Coding training and enterprise development designs that have improved employee retention, engagement, and productivity.
+
+I am a highly respected member of the Statistical and Data science community, and I have been recognized for my leadership and contributions to the field. I holds a Bachelor's degree in Mathematics and Statistics and a Master's degree in Computational Statistics from prestigious universities.
+
+Outside of work, I am actively involved in several community initiatives, where I volunteers my time and resources to support underprivileged individuals and families. Also, I am an avid reader and enjoy traveling to new destinations to experience different cultures and cuisines.
+
+My passion for Data science, Mathematics and Statistics and her commitment to making a positive impact in the community make her a highly valued professional and an inspiring leader.
+
+I have focused on the application of mathematical and statisical models to real world scenerios. Recently, I have been interested in the applications of these methodology through the data science pathway accross various fields using data from multiple technologies and sources. 
+
+I have extensive experience in collaborating with scientists and other non-technical profession teaching statistics, coding and data science to students from diverse areas and varied expertise. I am working closely with many colleagues at University oof Ibadan, Tech4Dev and The Quest Schools. I have developed and taught a class on statistical learning, Probability and Computational Statistics at Cross River University of technology and Caleb University Business School. 
+
+
 
 Funding
 ======
-Thanks to the Office of Naval Research and National Science Foundation, Division of Mathematical Sciences for funding our group's research.
+Thanks to the Technology for Social Change (Tech4Dev) for funding my training in Data Science and Artificial Intelligence.
 
-![](/images/nsf.png) ![](/images/onr.png)
+![](/images/t4d.png) ![](/images/t4d1.png)
 

@@ -13,43 +13,38 @@ redirect_from:
 Students
 ======
 
-I have the pleasure of advising many bright undergraduate and graduate students. I am currently working with following students:
+I have the pleasure of advising many bright undergraduate and college students. I am currently working with following students:
 
-1. [Payel Ghosal](https://stat.uiowa.edu/people)
-1. [Yutong Jin](https://stat.uiowa.edu/people)
-2. [Sreya Sarkar](https://stat.uiowa.edu/people)
-2. [James "JC" Thomas](https://stat.uiowa.edu/people)
-2. [Alex Liebrecht](https://stat.uiowa.edu/people)
-2. [Ian Hultman](https://stat.uiowa.edu/people)
-1. [Zongyi Xu](https://stat.uiowa.edu/people)
+1. [Qcode students](https://www.facebook.com/qcodeatlantic)
+2. [Samuel James](https://www.facebook.com/jameseffi)
+3. [Chinedum Ogbuagu (Nehd)](https://www.facebook.com/ogbuaguchined)
+
 
 Many students have moved on to the next phase of their careers after working with me at Iowa. 
 
-Ph.D. Alumni (and their first position)
+My Awesome Mentors
 ------
-1. [Chunlei Wang](https://www.linkedin.com/in/chunlei-wang-44966318b), Data Scientist at Google.
+1. [Professor Elisa Olubusoye](https://www.researchgate.net/profile/Olusanya-Olubusoye), Director CPEEL, University of Ibadan.
+2. [Professor Uchechi Ogbuagu](https://www.researchgate.net/profile/Uchechi-Ogbuagu-2), Professor, University of Calabar.
+3. [Dr. Christopher G. Udomboso](https://www.researchgate.net/profile/Christopher-Udomboso), Reader, University of Ibadan.
 
-B.S. and M.S. Alumni (and their first position)
+Influencers
 ------
 
-1. [Ziyu Gao](https://stat.osu.edu/), Ph.D. student at the Ohio State University
-1. [Yunyi Li](https://www.mccombs.utexas.edu/PhD/Areas-of-Study/IROM), Ph.D. student at UT Austin
-1. [Yixiang Xu](https://dlab.berkeley.edu/people/yixiang-xu), Ph.D. student at UC Berkeley 
-2. Yilin Ye, M.S. student at Vanderbilt University
-3. Shiyang Chen, Analyst at ComScore
+1. [Dr Ime Ogbuagu](https://www.facebook.com/imeogbuagu), My Sexy Mummy
+2. [Dr Seno Edet](https://www.facebook.com/seno.dominic.9), My Confidant
+3. [Dr Glory Etta Agbo](https://www.facebook.com/glory.agbo.127), My rare Gem https://www.facebook.com/oluwadare.sola.77
+4. [Dr. Sola Oluwadare](https://www.facebook.com/oluwadare.sola.77), My Other Me
 
-If you'd like to work with me, please email me about your research interests.  I am sure we can find a project that is interesting for us. 
+I am open to discuss research interests and take up research position.  I am equally availble to hack a real world challenge down through data science based projects and also take up positions.
 
 Collaborators
 ======
 
-I am actively collaborating with [Dipankar Bandopadhyay](https://www.people.vcu.edu/~dbandyop/), [Ray Bai](http://raybai.net/), [Rajarshi Guhaniyogi](https://users.soe.ucsc.edu/~rajguhaniyogi/), and [Terrance Savitsky](https://www.bls.gov/osmr/contact.htm) on divide-and-conquer algorithms for inference and prediction in a variety of Bayesian parametric and nonparametric models. I am working with [Kshitij Khare](http://users.stat.ufl.edu/~kdkhare/) on Asynchronous Data Augmentation.  [Cheng Li](http://blog.nus.edu.sg/stalic/) and I started working on distributed Bayesian inference as postdoctoral researchers. Our collaboration now focuses primarily on high-dimensional Gaussian processes. 
-
-I collaborate  extensively with scientists and clinicians. My methodological research on EHR data is motivated from the data collected by [Stephanie Gilbertson-White](http://www.nursing.uiowa.edu/faculty-staff/faculty-directory/sgilbertsonwhite) in the College of Nursing. My other collaborator at Iowa is [Rainbo Hultman](https://hultman.lab.uiowa.edu/), whose lab is located in the College of Medicine. The Hultman lab and my research group focuses on modeling local field potential, gene expression, and imaging data.
-
-If you have any projects that would benefit from my expertise, then please email me.  
+I am actively available for collaboration both as a researcher in Statistics, Data science and Computational methods, and as a Data scientist.  
+  
 
 Acknowledgment
 ======
 
-Thanks the Office of Naval Research and National Science Foundation for their generous funding. 
+Thanks the Tech4Dev for their trainings. 

@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of Sanvesh Srivastava"
+title                    : "Margaret Oluwadare (Margaret Etta Agbo)"
 subtitle                 : "Statistician and Data Scientist"
 title_separator          : "-"
-name                     : &name "Sanvesh Srivastava"
-description              : &description "personal description"
-url                      : https://blayes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Margaret Oluwadare"
+description              : &description "Personal Description"
+url                      : margaretoluwadare.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "blayes/blayes.github.io"
+repository               : "MargaretOluwadare/margaretoluwadare.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sanvesh Srivastava"
-  avatar           : "sanvesh.png"
-  bio              : "Associate Professor in the Department of Statistics and Actuarial Science, The University of Iowa"
-  location         : "Iowa City, IA"  
-  googlescholar    : "https://scholar.google.com/citations?user=BR_89wIAAAAJ&hl=en"
-  email            : "sanvesh-srivastava@uiowa.edu"
-  github           : "blayes"
-  orcid            : "https://orcid.org/0000-0002-5483-9579"
+  name             : "Margaret Oluwadare"
+  avatar           : "mme.jpg"
+  bio              : "Statistician and Data Scientist"
+  location         : "Ibadan, Nigeria"  
+  googlescholar    : "https://scholar.google.com/citations?user=aUpwJu0AAAAJ&hl=en"
+  email            : "margaretoluwadareea@gmail.com"
+  github           : "MargaretOluwadare"
+  orcid            : "https://orcid.org/0000-0003-4810-4047"
 
 # Reading Files
 include:
